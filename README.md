@@ -1,4 +1,4 @@
-# Challenge 08 - Medical Document Extractor
+# AI Challenge 08 - Medical Document Extractor
 
 Pipeline Python trích xuất dữ liệu có cấu trúc từ medical PDF/image bằng vision model
 qua **OpenRouter**. Pipeline gồm preprocessing, classification, extraction theo từng
