@@ -1,0 +1,73 @@
+{
+  "document_type": "lab_report",
+  "confidence": 0.98,
+  "fields": {
+    "lab_name": {
+      "value": "Bangkok Hospital Laboratory",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Nattapon Wong",
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "2024-04-15",
+      "confidence": 1.0
+    },
+    "tests": {
+      "value": [
+        {
+          "test_name": "White Blood Cell Count",
+          "result": "12.5",
+          "unit": "x10^3/uL",
+          "reference_range": "4.5-11.0",
+          "flag": "high"
+        },
+        {
+          "test_name": "Hemoglobin",
+          "result": "14.2",
+          "unit": "g/dL",
+          "reference_range": "13.5-17.5",
+          "flag": "normal"
+        },
+        {
+          "test_name": "Hematocrit",
+          "result": "42.1",
+          "unit": "%",
+          "reference_range": "38.8-50.0",
+          "flag": "normal"
+        },
+        {
+          "test_name": "Platelet Count",
+          "result": "245",
+          "unit": "x10^3/uL",
+          "reference_range": "150-400",
+          "flag": "normal"
+        },
+        {
+          "test_name": "Neutrophils %",
+          "result": "78",
+          "unit": "%",
+          "reference_range": "40-74",
+          "flag": "high"
+        },
+        {
+          "test_name": "Lymphocytes %",
+          "result": "18",
+          "unit": "%",
+          "reference_range": "20-50",
+          "flag": "low"
+        },
+        {
+          "test_name": "Red Blood Cell Count",
+          "result": "4.9",
+          "unit": "x10^6/uL",
+          "reference_range": "4.3-5.9",
+          "flag": "normal"
+        }
+      ],
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

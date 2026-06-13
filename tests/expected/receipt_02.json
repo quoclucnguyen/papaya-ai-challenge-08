@@ -1,0 +1,62 @@
+{
+  "document_type": "receipt",
+  "confidence": 1.0,
+  "fields": {
+    "hospital_name": {
+      "value": "Bumrungrad International Hospital",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "John Smith",
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "2024-05-22",
+      "confidence": 1.0
+    },
+    "items": {
+      "value": [
+        {
+          "description": "Room & Board - Private (3 nights)",
+          "quantity": 3,
+          "unit_price": 8500.0,
+          "total": 25500.0
+        },
+        {
+          "description": "Surgery - Appendectomy",
+          "quantity": 1,
+          "unit_price": 45000.0,
+          "total": 45000.0
+        },
+        {
+          "description": "Anesthesia",
+          "quantity": 1,
+          "unit_price": 8000.0,
+          "total": 8000.0
+        },
+        {
+          "description": "Nursing Care",
+          "quantity": 3,
+          "unit_price": 2000.0,
+          "total": 6000.0
+        },
+        {
+          "description": "Medications",
+          "quantity": 1,
+          "unit_price": 3500.0,
+          "total": 3500.0
+        }
+      ],
+      "confidence": 1.0
+    },
+    "grand_total": {
+      "value": 88000.0,
+      "confidence": 1.0
+    },
+    "payment_method": {
+      "value": "Insurance - Thai PA",
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

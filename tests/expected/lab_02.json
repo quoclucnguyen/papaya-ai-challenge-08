@@ -1,0 +1,73 @@
+{
+  "document_type": "lab_report",
+  "confidence": 1.0,
+  "fields": {
+    "lab_name": {
+      "value": "MedAsia Laboratory",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Suda Meesuk",
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "2024-07-22",
+      "confidence": 1.0
+    },
+    "tests": {
+      "value": [
+        {
+          "test_name": "Fasting Blood Glucose",
+          "result": "142",
+          "unit": "mg/dL",
+          "reference_range": "70-100",
+          "flag": "high"
+        },
+        {
+          "test_name": "HbA1c",
+          "result": "7.8",
+          "unit": "%",
+          "reference_range": "4.0-5.6",
+          "flag": "high"
+        },
+        {
+          "test_name": "Total Cholesterol",
+          "result": "268",
+          "unit": "mg/dL",
+          "reference_range": "<200",
+          "flag": "high"
+        },
+        {
+          "test_name": "HDL Cholesterol",
+          "result": "38",
+          "unit": "mg/dL",
+          "reference_range": ">40",
+          "flag": "low"
+        },
+        {
+          "test_name": "LDL Cholesterol",
+          "result": "189",
+          "unit": "mg/dL",
+          "reference_range": "<130",
+          "flag": "high"
+        },
+        {
+          "test_name": "Triglycerides",
+          "result": "205",
+          "unit": "mg/dL",
+          "reference_range": "<150",
+          "flag": "high"
+        },
+        {
+          "test_name": "Creatinine",
+          "result": "0.9",
+          "unit": "mg/dL",
+          "reference_range": "0.6-1.2",
+          "flag": "normal"
+        }
+      ],
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

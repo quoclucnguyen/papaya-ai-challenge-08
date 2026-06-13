@@ -1,0 +1,45 @@
+{
+  "document_type": "prescription",
+  "confidence": 1.0,
+  "fields": {
+    "doctor_name": {
+      "value": "Dr. Suchart Kanok",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Malee S.",
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "2024-05-18",
+      "confidence": 1.0
+    },
+    "medications": {
+      "value": [
+        {
+          "name": "Amoxicillin 500mg",
+          "dosage": "500mg",
+          "frequency": "Every 8 hours",
+          "duration": "7 days",
+          "quantity": 21
+        },
+        {
+          "name": "Ibuprofen 400mg",
+          "dosage": "400mg",
+          "frequency": "Every 6-8 hours as needed for pain",
+          "duration": "5 days",
+          "quantity": 20
+        },
+        {
+          "name": "Omeprazole 20mg",
+          "dosage": "20mg",
+          "frequency": "Once daily before breakfast",
+          "duration": "14 days",
+          "quantity": 14
+        }
+      ],
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

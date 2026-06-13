@@ -1,0 +1,50 @@
+{
+  "document_type": "receipt",
+  "confidence": 0.95,
+  "fields": {
+    "hospital_name": {
+      "value": "Siriraj Hospital",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Somchai Jaidee",
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "2024-08-10",
+      "confidence": 1.0
+    },
+    "items": {
+      "value": [
+        {
+          "description": "Outpatient Consultation",
+          "quantity": 1,
+          "unit_price": 500.0,
+          "total": 500.0
+        },
+        {
+          "description": "Ultrasound - Abdomen",
+          "quantity": 1,
+          "unit_price": 1800.0,
+          "total": 1800.0
+        },
+        {
+          "description": "Urinalysis",
+          "quantity": 1,
+          "unit_price": 250.0,
+          "total": 250.0
+        }
+      ],
+      "confidence": 1.0
+    },
+    "grand_total": {
+      "value": 2550.0,
+      "confidence": 1.0
+    },
+    "payment_method": {
+      "value": "Cash",
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

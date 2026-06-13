@@ -1,0 +1,65 @@
+{
+  "document_type": "discharge_summary",
+  "confidence": 0.95,
+  "fields": {
+    "hospital_name": {
+      "value": "Bumrungrad International Hospital",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Jane Doe",
+      "confidence": 1.0
+    },
+    "admission_date": {
+      "value": "2024-07-10",
+      "confidence": 1.0
+    },
+    "discharge_date": {
+      "value": "2024-07-15",
+      "confidence": 1.0
+    },
+    "diagnosis": {
+      "value": {
+        "primary": "Acute appendicitis (K35.8)",
+        "secondary": [
+          "Peritonitis (K65.9)"
+        ]
+      },
+      "confidence": 1.0
+    },
+    "procedures_performed": {
+      "value": [
+        {
+          "code": "CPT-44950",
+          "name": "Laparoscopic Appendectomy",
+          "date": "2024-07-10"
+        },
+        {
+          "code": "LAB-800",
+          "name": "Pre-op CBC & Metabolic Panel",
+          "date": "2024-07-10"
+        },
+        {
+          "code": "CPT-00540",
+          "name": "Anesthesia - General",
+          "date": "2024-07-10"
+        },
+        {
+          "code": "N-099",
+          "name": "Post-operative Pain Management",
+          "date": "2024-07-10"
+        }
+      ],
+      "confidence": 1.0
+    },
+    "attending_physician": {
+      "value": "Dr. Peter Chen",
+      "confidence": 1.0
+    },
+    "discharge_instructions": {
+      "value": "Wound care: Keep incision dry for 48 hours. No driving for 1 week. No heavy lifting > 10 lbs for 2 weeks. Diet: Advance as tolerated, low fat initially. Medications: Take prescribed pain meds as needed. Follow up in clinic in 7 days to check wound. Return to ER if fever > 38°C, severe abdominal pain, or redness/swelling at wound site.",
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

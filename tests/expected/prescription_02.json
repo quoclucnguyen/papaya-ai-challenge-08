@@ -1,0 +1,52 @@
+{
+  "document_type": "prescription",
+  "confidence": 1.0,
+  "fields": {
+    "doctor_name": {
+      "value": "Dr. Kanjana Suk",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Chati Trakun",
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "2024-08-30",
+      "confidence": 1.0
+    },
+    "medications": {
+      "value": [
+        {
+          "name": "Metformin 500mg",
+          "dosage": "500mg",
+          "frequency": "Twice daily with meals",
+          "duration": "30 days",
+          "quantity": 60
+        },
+        {
+          "name": "Losartan 50mg",
+          "dosage": "50mg",
+          "frequency": "Once daily in the morning",
+          "duration": "30 days",
+          "quantity": 30
+        },
+        {
+          "name": "Atorvastatin 20mg",
+          "dosage": "20mg",
+          "frequency": "Once daily at bedtime",
+          "duration": "30 days",
+          "quantity": 30
+        },
+        {
+          "name": "Aspirin 81mg",
+          "dosage": "81mg",
+          "frequency": "Once daily",
+          "duration": "30 days",
+          "quantity": 30
+        }
+      ],
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

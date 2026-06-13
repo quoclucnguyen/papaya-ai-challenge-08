@@ -1,0 +1,66 @@
+{
+  "document_type": "discharge_summary",
+  "confidence": 1.0,
+  "fields": {
+    "hospital_name": {
+      "value": "Bangkok Hospital",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Suphanat Wong",
+      "confidence": 1.0
+    },
+    "admission_date": {
+      "value": "2024-06-01",
+      "confidence": 1.0
+    },
+    "discharge_date": {
+      "value": "2024-06-05",
+      "confidence": 1.0
+    },
+    "diagnosis": {
+      "value": {
+        "primary": "Community-acquired pneumonia (J18.9)",
+        "secondary": [
+          "Hypertension (I10)",
+          "Type 2 Diabetes Mellitus (E11.9)"
+        ]
+      },
+      "confidence": 1.0
+    },
+    "procedures_performed": {
+      "value": [
+        {
+          "name": "Chest X-Ray",
+          "code": "X001",
+          "date": "2024-06-01"
+        },
+        {
+          "name": "CBC with Differential",
+          "code": "LAB02",
+          "date": "2024-06-01"
+        },
+        {
+          "name": "IV Antibiotics Administration",
+          "code": "N123",
+          "date": "2024-06-01"
+        },
+        {
+          "name": "Oxygen Therapy",
+          "code": "N045",
+          "date": "2024-06-01"
+        }
+      ],
+      "confidence": 1.0
+    },
+    "attending_physician": {
+      "value": "Dr. Narumon Sookprasert",
+      "confidence": 1.0
+    },
+    "discharge_instructions": {
+      "value": "Complete 7-day course of Azithromycin. Rest at home for 3-5 days. Follow up in outpatient clinic in 1 week. Monitor temperature twice daily. Return if fever > 38.5°C or breathing difficulty worsens. Continue home blood pressure and blood sugar monitoring.",
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}

@@ -1,0 +1,62 @@
+{
+  "document_type": "receipt",
+  "confidence": 0.95,
+  "fields": {
+    "hospital_name": {
+      "value": "Bangkok Hospital",
+      "confidence": 1.0
+    },
+    "patient_name": {
+      "value": "Somchai Wong",
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "2024-03-15",
+      "confidence": 1.0
+    },
+    "items": {
+      "value": [
+        {
+          "description": "Emergency Room Visit",
+          "quantity": 1,
+          "unit_price": 2500.0,
+          "total": 2500.0
+        },
+        {
+          "description": "X-Ray - Chest",
+          "quantity": 1,
+          "unit_price": 1200.0,
+          "total": 1200.0
+        },
+        {
+          "description": "Blood Test - CBC",
+          "quantity": 1,
+          "unit_price": 800.0,
+          "total": 800.0
+        },
+        {
+          "description": "Medication - Antibiotics",
+          "quantity": 1,
+          "unit_price": 450.0,
+          "total": 450.0
+        },
+        {
+          "description": "Doctor Consultation",
+          "quantity": 1,
+          "unit_price": 1500.0,
+          "total": 1500.0
+        }
+      ],
+      "confidence": 1.0
+    },
+    "grand_total": {
+      "value": 6450.0,
+      "confidence": 1.0
+    },
+    "payment_method": {
+      "value": "Credit Card",
+      "confidence": 1.0
+    }
+  },
+  "validation_errors": []
+}
